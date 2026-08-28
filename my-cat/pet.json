@@ -1,0 +1,7 @@
+{
+  "id": "my-cat",
+  "displayName": "my-cat",
+  "description": "一只陪伴主人写代码的小白猫",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
